@@ -13,3 +13,8 @@ https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set
 - Time-series modeling
 - Hyperparameter tuning
 - Performance analysis
+
+### To do list 
+- clean data ["⚠️ Dataset uses -200 for missing values - will be handled in preprocessing"]
+- train model
+- Evaluate and change hyperparameters 
