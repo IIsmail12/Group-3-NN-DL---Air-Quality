@@ -1,0 +1,9 @@
+{
+    "target_col": "CO(GT)",
+    "window_size": 24,
+    "horizon": 1,
+    "train_samples": 6533,
+    "val_samples": 1399,
+    "test_samples": 1401,
+    "date_range": "2004-03-10 18:00:00 to 2005-04-04 14:00:00"
+}
